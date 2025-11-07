@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Virtual envs
+venv/
+summn_env/
+env/
+.summn_env/
+
+# Datasets & checkpoints
+data/
+output/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
