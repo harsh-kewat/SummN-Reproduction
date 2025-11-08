@@ -44,7 +44,6 @@ python summarize.py
 
 ✅ BART gives coherent summaries.
 
-⚠️ Missing multi-stage hierarchical training.
 
 # Citation
 ```bash
